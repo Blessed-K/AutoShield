@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="./vars.css">
-  <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="css/invoice.css">
   
   
   <style>
@@ -45,7 +45,7 @@
           <div class="depth-3-frame-0">
             <img
               class="free-vector-auto-repair-logos-3"
-              src="free-vector-auto-repair-logos-30.png"
+              src="images/blacklogo.png"
             />
             <div class="depth-4-frame-0">
               <div class="depth-5-frame-0">
@@ -60,38 +60,7 @@
               <div class="auto-shield">AutoShield</div>
             </div>
           </div>
-          <div class="depth-3-frame-1">
-            <div class="depth-4-frame-02">
-              <div class="depth-5-frame-02">
-                <div class="dashboard">Dashboard</div>
-              </div>
-              <div class="depth-5-frame-1">
-                <div class="orders">Orders</div>
-              </div>
-              <div class="depth-5-frame-2">
-                <div class="customers">Customers</div>
-              </div>
-              <div class="depth-5-frame-3">
-                <div class="vehicles">Vehicles</div>
-              </div>
-              <div class="depth-5-frame-4">
-                <div class="parts">Parts</div>
-              </div>
-              <div class="depth-5-frame-5">
-                <div class="service-items">Service Items</div>
-              </div>
-            </div>
-            <div class="depth-4-frame-12">
-              <div class="depth-5-frame-12">
-                <div class="depth-6-frame-02">
-                  <div class="depth-7-frame-02">
-                    <img class="vector-02" src="vector-01.svg" />
-                    <div class="depth-8-frame-0"></div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+          
         </div>
         <div class="depth-2-frame-1">
           <div class="depth-3-frame-02">
@@ -396,12 +365,12 @@
               <div class="depth-5-frame-06">
                 <div class="depth-6-frame-07">
                   <div class="depth-7-frame-04">
-                    <div class="mark-as-complete">Mark as Complete</div>
+                    <div class="mark-as-complete"><button>Mark as Complete</button></div>
                   </div>
                 </div>
                 <div class="depth-6-frame-13">
                   <div class="depth-7-frame-04">
-                    <div class="generate-invoice">Generate Invoice</div>
+                    <div class="generate-invoice"><button>Generate Invoice</button></div>
                   </div>
                 </div>
               </div>
